@@ -1,10 +1,3 @@
-#include<iostream>
-#include<bits/stdc++.h>
 
-using namespace std ;
-
-int main() {
-cout<<"test"<<endl;    
-
-return 0;
-}
+    
+add->commit (-m ".....")->push (origin main)
